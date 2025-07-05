@@ -28,10 +28,10 @@ A full-featured **Expense Tracker Web App** built with the **MERN stack** (Mongo
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, Recharts, Axios  
+- **Frontend:** React.js, Recharts  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB (Mongoose)  
-- **Others:** ExcelJS / SheetJS for report generation
+
 
 ---
 
