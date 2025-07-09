@@ -98,10 +98,4 @@ A full-featured **Expense Tracker Web App** built with the **MERN stack** (Mongo
    cd mern-expense-tracker
 
 
-## 📂 Installation & Setup
 
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/your-username/mern-expense-tracker.git
-   cd mern-expense-tracker
